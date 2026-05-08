@@ -1,0 +1,1 @@
+Rails.configuration.command_bus = Arkency::CommandBus.new
